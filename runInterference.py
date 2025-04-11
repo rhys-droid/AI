@@ -1,3 +1,10 @@
+#Train.py is the training data set.
+# runInterference.py is the test function with 10 test goals. 
+# Ran using anaconda and local. 
+# White object is the obstacle, green is the goal. 
+#simple_driving_env.py is modified directly for reward functions
+
+
 import gym
 import simple_driving
 import torch
